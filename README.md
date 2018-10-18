@@ -1,6 +1,9 @@
 # MicroPython-LSM303D
+## Digital sensor 3D accelerometer and 3D magnetometer
+The LSM303D is a sensor from STMicroelectronics.
 
-### Digital sensor 3D accelerometer and 3D magnetometer
+### <b>DataSheet:</b>
+<https://pdf1.alldatasheet.com/datasheet-pdf/view/929289/STMICROELECTRONICS/LSM303D.html>
 
 ## Features
 - 3 magnetic field channels and 3 acceleration channels
